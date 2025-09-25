@@ -69,7 +69,7 @@ class Student {
     }
 }
 
-public class Chapter3Student {
+public class Homework2 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         Student[] students = new Student[3];
@@ -99,3 +99,4 @@ public class Chapter3Student {
         sc.close();
     }
 }
+
